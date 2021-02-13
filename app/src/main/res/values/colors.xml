@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03592C</color>
+    <color name="colorPrimaryDark">#303030</color>
+    <color name="commongrey">#383838</color>
+    <color name="lightgrey">#808088</color>
+    <color name="link">#556780</color>
+    <color name="logo1_background">#026130</color>
+</resources>
