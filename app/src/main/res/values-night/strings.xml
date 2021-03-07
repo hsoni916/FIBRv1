@@ -1,8 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FIBR</string>
-    <string name="let_s_begin">Let\'s Begin</string>
     <string name="welcome">Welcome</string>
-    <string name="welcomemsg">Hi there!</string>
     <string name="email">Email Address</string>
     <string name="password">Password</string>
 </resources>

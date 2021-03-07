@@ -16,10 +16,12 @@ import androidx.core.content.ContextCompat;
 import com.example.FIBR.R;
 
 public class PermissionActivity extends AppCompatActivity {
+
     private final int[] availablepermission= new int[]{};
     SharedPreferences Permissions;
     SharedPreferences.Editor editor;
     boolean check = false;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
