@@ -16,17 +16,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FIBR">
 
-        <activity android:name="com.example.fibr.boiler">
+        <activity android:name="com.example.fibr.boiler"
+            android:windowSoftInputMode="adjustResize" >
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"
+                    />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.fibr.PermissionActivity">
+        <activity android:name="com.example.fibr.PermissionActivity"
+            android:windowSoftInputMode="adjustResize" >
 
         </activity>
-        <activity android:name="com.example.fibr.AccountContainer">
+        <activity android:name="com.example.fibr.AccountContainer"
+            android:windowSoftInputMode="adjustResize" >
 
         </activity>
     </application>
